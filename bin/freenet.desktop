@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec="/opt/freenet/proxy"
+Name=Free Net
+GenericName=Green Internet.
+Icon=/opt/freenet/freenet.png
+Categories=Network;
